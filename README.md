@@ -1,6 +1,6 @@
-pip install pandas;
-pip install numpy; 
-pip install xlrd;
-pip install openpyxl;
-
+pip install pandas<br />
+pip install numpy<br /> 
+pip install xlrd<br />
+pip install openpyxl<br />
+<br />
 install -> Jupyter (Extention)
